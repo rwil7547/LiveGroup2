@@ -1,6 +1,8 @@
 # LiveGroup2
 Just another repository
 
+// some text has been added 
+
 public class AccountQuickbooksStatusController {
 
 	public boolean rendered {public get; private set;}
