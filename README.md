@@ -1,5 +1,2 @@
-public with sharing class AccountTrigger {
-	public AccountTrigger() {
-		
-	}
-}
++# LiveGroup2
++Just another repository
